@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:2.933333,
+https://lego-lbr.kmapp.net/storage/Ai28AV2YNOrFhzi8VKcQZwaSagyWZtfPzJIU5UoK.png
+#EXTINF:2.935000,
+https://lego-lbr.kmapp.net/storage/KyIg0zc0bcP3yf29AqLr7daOcNs1uh4B4CEt3Su6.png
+#EXTINF:0.400000,
+https://lego-lbr.kmapp.net/storage/yRNQ3LefA3fpFubXUyhDk79Krxk8cz5NUk4vTukG.png
+#EXT-X-ENDLIST
